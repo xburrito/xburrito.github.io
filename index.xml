@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>xBurrito&#39;s Portfolio</title>
+    <link>https://xburrito.github.io/</link>
+    <description>Recent content on xBurrito&#39;s Portfolio</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 11 Feb 2021 13:07:00 -0500</lastBuildDate><atom:link href="https://xburrito.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Résumé</title>
+      <link>https://xburrito.github.io/resume/</link>
+      <pubDate>Thu, 11 Feb 2021 13:23:21 -0500</pubDate>
+      
+      <guid>https://xburrito.github.io/resume/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Projects</title>
+      <link>https://xburrito.github.io/projects/</link>
+      <pubDate>Thu, 11 Feb 2021 13:23:00 -0500</pubDate>
+      
+      <guid>https://xburrito.github.io/projects/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Auto Bio</title>
+      <link>https://xburrito.github.io/bio/</link>
+      <pubDate>Thu, 11 Feb 2021 13:18:15 -0500</pubDate>
+      
+      <guid>https://xburrito.github.io/bio/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>College</title>
+      <link>https://xburrito.github.io/assignments/</link>
+      <pubDate>Thu, 11 Feb 2021 13:15:02 -0500</pubDate>
+      
+      <guid>https://xburrito.github.io/assignments/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
