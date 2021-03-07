@@ -17,12 +17,14 @@
     </item>
     
     <item>
-      <title>JS Todo App</title>
+      <title>MERN Todo App</title>
       <link>https://xburrito.github.io/projects/project2/</link>
       <pubDate>Thu, 11 Feb 2021 13:23:00 -0500</pubDate>
       
       <guid>https://xburrito.github.io/projects/project2/</guid>
-      <description></description>
+      <description>Langauges used: Javascript, HTML, CSS Github Project Link Created during LB internship
+This project was bootstrapped with Create React App.
+Todo App Requirements  Tier 1: User creates a list with a name. After creation, user is presented with a field and button that lets the user add a todo item to the list Tier 2: User has ability to delete todo items from the list Tier 3: User can create multiple lists.</description>
     </item>
     
     <item>
@@ -31,16 +33,19 @@
       <pubDate>Thu, 11 Feb 2021 13:23:00 -0500</pubDate>
       
       <guid>https://xburrito.github.io/projects/project4/</guid>
-      <description></description>
+      <description>Langauges used: C++ Github Project Link Description: This is a simple A.I. learning project that takes in arrays of size 12 and determines if the arrays fall under the letter H, the letter L, or neither. In the case that it doesn&amp;rsquo;t fall into either category, they would be marked as noise arrays and excluded from the A.I. learning algorithms to reduce the chances of accuracy decay.
+ Ex. Given this array: [1, 0, 1, 1, 1, 1, 1, 1, 1, 1, 0, 1], The first thing that we could do is beautify the array into a 4x3 structure:</description>
     </item>
     
     <item>
-      <title>S.M. Platform</title>
+      <title>Social Platform</title>
       <link>https://xburrito.github.io/projects/project1/</link>
       <pubDate>Thu, 11 Feb 2021 13:23:00 -0500</pubDate>
       
       <guid>https://xburrito.github.io/projects/project1/</guid>
-      <description></description>
+      <description>Langauges used: Java, HTML, CSS Github Project Link Team: Gabriel Espinoza, Albert (Bryan) Chang, Orion Cadri, Ide
+Description: The objective was to create a miniature team platform with core functionalities such as:
+ Sign up &amp;amp; sign in Create personal pages Connect and collaborate with other users User status [ordinary user, VIP, admin] based on reputation score grant privileges to users based on user status develop a voting system   Prepare and Run:</description>
     </item>
     
     <item>
@@ -49,7 +54,11 @@
       <pubDate>Thu, 11 Feb 2021 13:23:00 -0500</pubDate>
       
       <guid>https://xburrito.github.io/projects/project3/</guid>
-      <description></description>
+      <description>Langauges used: HTML &amp;amp; CSS Github Project Link Purpose of this project:
+  Dabble in the syntax of HTML, CSS, and maybe incorporate JS later on (not sure yet)
+  Learn about the responsiveness of web pages across computer, tablet, and mobile platforms
+  CSS markup is labeled to show where everything is located for easier appearance modification of the site
+  Did not use FOUNDATION as a template responsive css file for the site</description>
     </item>
     
     <item>
