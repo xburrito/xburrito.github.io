@@ -1,67 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>xBurrito&#39;s Portfolio</title>
-    <link>https://xburrito.github.io/</link>
-    <description>Recent content on xBurrito&#39;s Portfolio</description>
+    <title>Courses on xBurrito&#39;s Portfolio</title>
+    <link>https://xburrito.github.io/course/</link>
+    <description>Recent content in Courses on xBurrito&#39;s Portfolio</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 11 Feb 2021 13:07:00 -0500</lastBuildDate><atom:link href="https://xburrito.github.io/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Résumé</title>
-      <link>https://xburrito.github.io/resume/</link>
-      <pubDate>Thu, 11 Feb 2021 13:23:21 -0500</pubDate>
-      
-      <guid>https://xburrito.github.io/resume/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>JS Todo App</title>
-      <link>https://xburrito.github.io/projects/project2/</link>
-      <pubDate>Thu, 11 Feb 2021 13:23:00 -0500</pubDate>
-      
-      <guid>https://xburrito.github.io/projects/project2/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Neural Network</title>
-      <link>https://xburrito.github.io/projects/project4/</link>
-      <pubDate>Thu, 11 Feb 2021 13:23:00 -0500</pubDate>
-      
-      <guid>https://xburrito.github.io/projects/project4/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>S.M. Platform</title>
-      <link>https://xburrito.github.io/projects/project1/</link>
-      <pubDate>Thu, 11 Feb 2021 13:23:00 -0500</pubDate>
-      
-      <guid>https://xburrito.github.io/projects/project1/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Web Project</title>
-      <link>https://xburrito.github.io/projects/project3/</link>
-      <pubDate>Thu, 11 Feb 2021 13:23:00 -0500</pubDate>
-      
-      <guid>https://xburrito.github.io/projects/project3/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>About Me</title>
-      <link>https://xburrito.github.io/bio/</link>
-      <pubDate>Thu, 11 Feb 2021 13:18:15 -0500</pubDate>
-      
-      <guid>https://xburrito.github.io/bio/</guid>
-      <description>Hello there!  My name is Bryan and I&amp;rsquo;m a fourth year computer science student wrapping up my final semester at CCNY for my degree in B.S. computer science. But this here information ain&amp;rsquo;t about school and work right?
- I love fried chicken (lookin&#39; at you Jollibees) and chicken over rice (usually a hit or miss. With my luck, its more often a miss) To make this screen look a tad bit professional to the person peeking over your shoulder, here&amp;rsquo;s a graph of the few things I enjoy in life:</description>
-    </item>
-    
+    <lastBuildDate>Thu, 11 Feb 2021 13:15:02 -0500</lastBuildDate><atom:link href="https://xburrito.github.io/course/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Algorithms</title>
       <link>https://xburrito.github.io/course/course4/</link>

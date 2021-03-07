@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects on xBurrito&#39;s Portfolio</title>
+    <link>https://xburrito.github.io/projects/</link>
+    <description>Recent content in Projects on xBurrito&#39;s Portfolio</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 11 Feb 2021 13:23:00 -0500</lastBuildDate><atom:link href="https://xburrito.github.io/projects/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>JS Todo App</title>
+      <link>https://xburrito.github.io/projects/project2/</link>
+      <pubDate>Thu, 11 Feb 2021 13:23:00 -0500</pubDate>
+      
+      <guid>https://xburrito.github.io/projects/project2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Neural Network</title>
+      <link>https://xburrito.github.io/projects/project4/</link>
+      <pubDate>Thu, 11 Feb 2021 13:23:00 -0500</pubDate>
+      
+      <guid>https://xburrito.github.io/projects/project4/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>S.M. Platform</title>
+      <link>https://xburrito.github.io/projects/project1/</link>
+      <pubDate>Thu, 11 Feb 2021 13:23:00 -0500</pubDate>
+      
+      <guid>https://xburrito.github.io/projects/project1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Web Project</title>
+      <link>https://xburrito.github.io/projects/project3/</link>
+      <pubDate>Thu, 11 Feb 2021 13:23:00 -0500</pubDate>
+      
+      <guid>https://xburrito.github.io/projects/project3/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
